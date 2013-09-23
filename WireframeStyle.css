@@ -6,17 +6,20 @@ html {
 	background-color: #7FFFD4;
 	height: 600px;
 	width: 300px;
+	border: 10px solid #F75D59;
 	}
 	
 .Frame2 {
 	background-color: #98FF98;
 	height: 600px;
 	width: 300px;
+	border: 10px dashed #F75D59;
 	}
 	
 .Frame3 {
 	background-color: #FFF8C6;
 	height: 600px;
 	width: 300px;
+	border: 10px dotted #F75D59;
 	}
 
