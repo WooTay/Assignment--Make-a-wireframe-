@@ -30,7 +30,8 @@ html {
 	}
 
 .WSO {
-	height: 800px;
-	width: 800px;
-	border 30px solid #FF0000;
+	background-color: #FFFFFF;
+	height: 650px;
+	width: 900px;
+	border 10px solid #FF0000;
 	}
