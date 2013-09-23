@@ -6,14 +6,14 @@ html {
 	background-color: #800000;
 	height: 600px;
 	width: 300px;
-	border: 10px solid #FF0000;
+	border: 15px solid #FF0000;
 	float: left;
 	margin: 10px;
 	}
 	
 .Frame2 {
 	background-color: #A52A2A;
-	height: 600px;
+	height: 500px;
 	width: 300px;
 	border: 10px dashed #FF0000;
 	float: left;
@@ -22,7 +22,7 @@ html {
 	
 .Frame3 {
 	background-color: #FFA500;
-	height: 600px;
+	height: 400px;
 	width: 300px;
 	border: 10px dotted #FF0000;
 	float: left;
