@@ -8,6 +8,7 @@ html {
 	width: 300px;
 	border: 10px solid #F75D59;
 	float: left;
+	margin: 10px;
 	}
 	
 .Frame2 {
@@ -16,6 +17,7 @@ html {
 	width: 300px;
 	border: 10px dashed #F75D59;
 	float: left;
+	margin: 10px;
 	}
 	
 .Frame3 {
@@ -24,5 +26,6 @@ html {
 	width: 300px;
 	border: 10px dotted #F75D59;
 	float: left;
+	margin: 10px;
 	}
 
