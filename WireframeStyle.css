@@ -3,28 +3,28 @@ html {
 	}
 	
 .Frame1 {
-	background-color: #7FFFD4;
+	background-color: #800000;
 	height: 600px;
 	width: 300px;
-	border: 10px solid #F75D59;
+	border: 10px solid #FF0000;
 	float: left;
 	margin: 10px;
 	}
 	
 .Frame2 {
-	background-color: #98FF98;
+	background-color: #A52A2A;
 	height: 600px;
 	width: 300px;
-	border: 10px dashed #F75D59;
+	border: 10px dashed #FF0000;
 	float: left;
 	margin: 10px;
 	}
 	
 .Frame3 {
-	background-color: #FFF8C6;
+	background-color: #FFA500;
 	height: 600px;
 	width: 300px;
-	border: 10px dotted #F75D59;
+	border: 10px dotted #FF0000;
 	float: left;
 	margin: 10px;
 	}
